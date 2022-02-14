@@ -1,0 +1,57 @@
+
+
+body{
+  margin: 0;
+  text-align: center;
+  /* font-family: Georgia; */
+  font-family: 'Merriweather', serif;
+}
+h1 {
+  margin: 0;
+  font-family: 'Nanum Myeongjo', serif;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top-container{
+  height:100%;
+  width: 100%;
+  background-color: #E5DCC3;
+  position: relative;
+  padding-top: 40px;
+}
+
+.full-height {
+  height: 100%;
+}
+
+.full-height2 {
+  height: 100%;
+  background: yellow;
+}
+
+.middle-container{
+
+}
+
+.bottom-container{
+
+}
+.pro{
+  text-decoration: underline;
+}
+
+.bottom-cloud{
+  position: absolute;
+}
+
+.top-cloud{
+  position: relative;
+  left: 200px;
+}
